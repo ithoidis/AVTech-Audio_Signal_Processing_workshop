@@ -1,19 +1,21 @@
 # Audio signal processing and semantic analysis workshop
 
-**Audio/Video Technology: Processing-Transmission-Storage**
+Audio/Video Technology: Processing-Transmission-Storage
 
-**Department of Electrical and Computer Engineering**
+Laboratory of Electroacoustics and TV Systems
 
-**Faculty of Engineering**
+Department of Electrical and Computer Engineering
 
-**Aristotle University of Thessaloniki, Greece**
+Faculty of Engineering
 
-Authors:
+Aristotle University of Thessaloniki, Greece
+
+### Authors:
 - Iordanis Thoidis
 - Nikos Vryzas
 - Charalampos Dimoulas
 
-For educational purposes only.
+Educational purposes only.
 
 # Overview
 This repository contains the MATLAB assets and live scripts for the "Audio signal processing and semantic analysis" workshop of the "Audio/Video Technology: Processing-Transmission-Storage" course. 
